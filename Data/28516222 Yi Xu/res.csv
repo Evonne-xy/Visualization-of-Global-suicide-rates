@@ -1,0 +1,91 @@
+,Country,Year,Sex,Suicide Rates/100k population,Unnamed: 0,Country Code,GDP_for_year ($) ,year
+0,Afghanistan,2000,Both sexes,8.1,1.0,AFG,,2000
+1,Afghanistan,2000,Male,14.3,1.0,AFG,,2000
+2,Afghanistan,2000,Female,1.7,1.0,AFG,,2000
+324,C??te d'Ivoire,2000,Both sexes,16.5,,,,
+325,C??te d'Ivoire,2000,Male,23.1,,,,
+326,C??te d'Ivoire,2000,Female,9.1,,,,
+327,C??te d'Ivoire,2010,Both sexes,20.7,,,,
+328,C??te d'Ivoire,2010,Male,29.1,,,,
+329,C??te d'Ivoire,2010,Female,11.4,,,,
+330,C??te d'Ivoire,2015,Both sexes,22.8,,,,
+331,C??te d'Ivoire,2015,Male,31.9,,,,
+332,C??te d'Ivoire,2015,Female,12.9,,,,
+333,C??te d'Ivoire,2016,Both sexes,23.0,,,,
+334,C??te d'Ivoire,2016,Male,32.0,,,,
+335,C??te d'Ivoire,2016,Female,13.0,,,,
+516,Czechia,2000,Both sexes,14.1,,,,
+517,Czechia,2000,Male,23.8,,,,
+518,Czechia,2000,Female,5.3,,,,
+519,Czechia,2010,Both sexes,12.3,,,,
+520,Czechia,2010,Male,21.1,,,,
+521,Czechia,2010,Female,4.0,,,,
+522,Czechia,2015,Both sexes,10.6,,,,
+523,Czechia,2015,Male,17.7,,,,
+524,Czechia,2015,Female,4.0,,,,
+525,Czechia,2016,Both sexes,10.5,,,,
+526,Czechia,2016,Male,17.2,,,,
+527,Czechia,2016,Female,4.2,,,,
+528,Democratic People's Republic of Korea,2000,Both sexes,10.2,191.0,PRK,,2000
+529,Democratic People's Republic of Korea,2000,Male,14.6,191.0,PRK,,2000
+530,Democratic People's Republic of Korea,2000,Female,7.7,191.0,PRK,,2000
+531,Democratic People's Republic of Korea,2010,Both sexes,11.6,719.0,PRK,,2010
+532,Democratic People's Republic of Korea,2010,Male,16.3,719.0,PRK,,2010
+533,Democratic People's Republic of Korea,2010,Female,9.0,719.0,PRK,,2010
+534,Democratic People's Republic of Korea,2015,Both sexes,10.8,2039.0,PRK,,2015
+535,Democratic People's Republic of Korea,2015,Male,15.2,2039.0,PRK,,2015
+536,Democratic People's Republic of Korea,2015,Female,8.2,2039.0,PRK,,2015
+537,Democratic People's Republic of Korea,2016,Both sexes,10.6,2303.0,PRK,,2016
+538,Democratic People's Republic of Korea,2016,Male,14.8,2303.0,PRK,,2016
+539,Democratic People's Republic of Korea,2016,Female,8.0,2303.0,PRK,,2016
+642,Eritrea,2015,Both sexes,14.1,1915.0,ERI,,2015
+643,Eritrea,2015,Male,22.8,1915.0,ERI,,2015
+644,Eritrea,2015,Female,6.3,1915.0,ERI,,2015
+645,Eritrea,2016,Both sexes,13.8,2179.0,ERI,,2016
+646,Eritrea,2016,Male,22.4,2179.0,ERI,,2016
+647,Eritrea,2016,Female,6.1,2179.0,ERI,,2016
+936,Iraq,2000,Both sexes,3.8,111.0,IRQ,,2000
+937,Iraq,2000,Male,5.0,111.0,IRQ,,2000
+938,Iraq,2000,Female,2.7,111.0,IRQ,,2000
+1680,Sao Tome and Principe,2000,Both sexes,2.7,217.0,STP,,2000
+1681,Sao Tome and Principe,2000,Male,3.8,217.0,STP,,2000
+1682,Sao Tome and Principe,2000,Female,1.7,217.0,STP,,2000
+1764,Slovakia,2000,Both sexes,12.8,,,,
+1765,Slovakia,2000,Male,22.2,,,,
+1766,Slovakia,2000,Female,4.4,,,,
+1767,Slovakia,2010,Both sexes,11.4,,,,
+1768,Slovakia,2010,Male,20.6,,,,
+1769,Slovakia,2010,Female,3.1,,,,
+1770,Slovakia,2015,Both sexes,10.1,,,,
+1771,Slovakia,2015,Male,18.4,,,,
+1772,Slovakia,2015,Female,2.6,,,,
+1773,Slovakia,2016,Both sexes,10.1,,,,
+1774,Slovakia,2016,Male,18.4,,,,
+1775,Slovakia,2016,Female,2.6,,,,
+1800,Somalia,2000,Both sexes,8.2,211.0,SOM,,2000
+1801,Somalia,2000,Male,11.0,211.0,SOM,,2000
+1802,Somalia,2000,Female,5.6,211.0,SOM,,2000
+1803,Somalia,2010,Both sexes,7.6,739.0,SOM,,2010
+1804,Somalia,2010,Male,10.3,739.0,SOM,,2010
+1805,Somalia,2010,Female,5.2,739.0,SOM,,2010
+1824,South Sudan,2000,Both sexes,8.0,214.0,SSD,,2000
+1825,South Sudan,2000,Male,11.0,214.0,SSD,,2000
+1826,South Sudan,2000,Female,5.3,214.0,SSD,,2000
+1833,South Sudan,2016,Both sexes,6.1,2326.0,SSD,,2016
+1834,South Sudan,2016,Male,8.3,2326.0,SSD,,2016
+1835,South Sudan,2016,Female,4.1,2326.0,SSD,,2016
+1911,Syrian Arab Republic,2010,Both sexes,2.4,753.0,SYR,,2010
+1912,Syrian Arab Republic,2010,Male,3.7,753.0,SYR,,2010
+1913,Syrian Arab Republic,2010,Female,1.1,753.0,SYR,,2010
+1914,Syrian Arab Republic,2015,Both sexes,2.4,2073.0,SYR,,2015
+1915,Syrian Arab Republic,2015,Male,3.8,2073.0,SYR,,2015
+1916,Syrian Arab Republic,2015,Female,1.1,2073.0,SYR,,2015
+1917,Syrian Arab Republic,2016,Both sexes,2.4,2337.0,SYR,,2016
+1918,Syrian Arab Republic,2016,Male,3.8,2337.0,SYR,,2016
+1919,Syrian Arab Republic,2016,Female,1.1,2337.0,SYR,,2016
+2142,Venezuela (Bolivarian Republic of),2015,Both sexes,3.9,2100.0,VEN,,2015
+2143,Venezuela (Bolivarian Republic of),2015,Male,6.8,2100.0,VEN,,2015
+2144,Venezuela (Bolivarian Republic of),2015,Female,1.2,2100.0,VEN,,2015
+2145,Venezuela (Bolivarian Republic of),2016,Both sexes,3.8,2364.0,VEN,,2016
+2146,Venezuela (Bolivarian Republic of),2016,Male,6.6,2364.0,VEN,,2016
+2147,Venezuela (Bolivarian Republic of),2016,Female,1.2,2364.0,VEN,,2016
