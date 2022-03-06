@@ -3,7 +3,7 @@
 R App URL：<https://evonnetest.shinyapps.io/VisualizationOfGlobalSuicideRates/>
 
 
-PS：`网站数据加载部分有些慢，需要等待一下`
+PS：`网站部分数据加载部分有些慢，需要等待一下`
 
 这个项目探讨了世界各地不同国家的自杀率、性别和经济因素之间的关系。用户可以通过网页来探索这三个问题。使用导航标题栏分别显示三个问题，每个情节具有交互功能。用户可以选择他感兴趣的国家或年份来观察图片中的变化。
 
@@ -13,7 +13,9 @@ PS：`网站数据加载部分有些慢，需要等待一下`
 世界银行官网(https://data.worldbanj.org/indicator/NY.GDP.MKTP.CD)
 世卫组织官网(https://apps.who.int/gho/data/view.main.MHSUIDEv)
 
-下面为设计图：(由于作业为英文版本，所以设计图稿为英文版)
+具体详细项目报告参考projectDocument文件夹
+
+下面为设计图：(由于项目为英文版本，所以设计图稿为英文版)
 
 Sheet1：
 
